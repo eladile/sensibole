@@ -1,5 +1,5 @@
 # sensibole
-A Simple script to grab last status and turn your AC on/off
+A Simple script to grab last status and turn your AC on/off using sensibo
 
 # Get An Api Key
 https://home.sensibo.com/login?next=/me/api
